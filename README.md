@@ -1,1 +1,1 @@
-This repository is created to show different solutions with different approaches to Project Euler problems.
+This repository was created to show different solutions to Project Euler problems with different approaches.
